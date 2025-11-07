@@ -84,7 +84,7 @@ public class Main {
                     }
 
                     //Creo el objeto alumno y le añado sus nuevas variables
-                    Alumno alumno = new Alumno(nombres, apellidos, edad, LocalDate.now());
+                    Alumno alumno = new Alumno(nombres, apellidos, edad, ciudad, LocalDate.now());
 
                     //Alumno los añano a la lista llamada alumnos
                     alumnos.add(alumno);
@@ -129,6 +129,9 @@ public class Main {
 
             for (Curso c : lista){
                 System.out.println("Curso: " + c.getNombre() + " Alumnos : " +c.getListaAlumnos().size());
+                for (Alumno a : c.getListaAlumnos()){
+                    System.out.println( "Nombre completo:" + a.getNombre() + " " + a.getApellidos() + " Edad:" + a.getEdad() + " Ciudad " + a.getCiudad());
+                }
             }
 
         } catch (Exception e) {
@@ -173,6 +176,10 @@ public class Main {
             Curso[] cursos = mapper.readValue(reader, Curso[].class);
             for (Curso c : cursos ){
                 System.out.println("Curso: " + c.getNombre() +" Alumnos: " + c.getListaAlumnos().size());
+
+                for (Alumno a : c.getListaAlumnos()){
+                    System.out.println( "Nombre completo:" + a.getNombre() + " " + a.getApellidos() + " Edad:" + a.getEdad() + " Ciudad " + a.getCiudad());
+                }
             }
 
         }catch (Exception e){
@@ -213,6 +220,10 @@ public class Main {
             Curso[] cursos = mapper.readValue(reader, Curso[].class);
             for (Curso c : cursos ){
                 System.out.println("Curso: " + c.getNombre() +" Alumnos: " + c.getListaAlumnos().size());
+
+                for (Alumno a : c.getListaAlumnos()){
+                    System.out.println( "Nombre completo:" + a.getNombre() + " " + a.getApellidos() + " Edad:" + a.getEdad() + " Ciudad " + a.getCiudad());
+                }
             }
 
         }catch (Exception e){

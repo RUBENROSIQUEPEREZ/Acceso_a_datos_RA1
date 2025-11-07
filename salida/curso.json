@@ -1,121 +1,145 @@
 [ {
   "ListaAlumnos" : [ {
     "apellidos" : "Abellán García",
+    "ciudad" : "Cartagena",
     "edad" : 29,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Manuel"
   }, {
     "apellidos" : "Alonso Pérez",
+    "ciudad" : "Cartagena",
     "edad" : 23,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Lucía"
   }, {
     "apellidos" : "Aranda Molina",
+    "ciudad" : "Cartagena",
     "edad" : 32,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Javier"
   }, {
     "apellidos" : "Ballester Ruiz",
+    "ciudad" : "Cartagena",
     "edad" : 21,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Carmen"
   }, {
     "apellidos" : "Barrera López",
+    "ciudad" : "Cartagena",
     "edad" : 27,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "David"
   }, {
     "apellidos" : "Caballero Torres",
+    "ciudad" : "Cartagena",
     "edad" : 30,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Ana"
   }, {
     "apellidos" : "Cano Fernández",
+    "ciudad" : "Cartagena",
     "edad" : 22,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Laura"
   }, {
     "apellidos" : "Castillo Serrano",
+    "ciudad" : "Cartagena",
     "edad" : 28,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Sergio"
   }, {
     "apellidos" : "Díaz Romero",
+    "ciudad" : "Cartagena",
     "edad" : 24,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Elena"
   }, {
     "apellidos" : "Esteban Ortega",
+    "ciudad" : "Cartagena",
     "edad" : 26,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Beatriz"
   }, {
     "apellidos" : "García León",
+    "ciudad" : "Cartagena",
     "edad" : 20,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Paula"
   }, {
     "apellidos" : "Gil Navarro",
+    "ciudad" : "Cartagena",
     "edad" : 35,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Andrés"
   }, {
     "apellidos" : "Gómez Ríos",
+    "ciudad" : "Cartagena",
     "edad" : 19,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Patricia"
   }, {
     "apellidos" : "González Vidal",
+    "ciudad" : "Cartagena",
     "edad" : 40,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Alberto"
   }, {
     "apellidos" : "Ibáñez Moreno",
+    "ciudad" : "Cartagena",
     "edad" : 38,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Carlos"
   }, {
     "apellidos" : "Lozano Pérez",
+    "ciudad" : "Cartagena",
     "edad" : 21,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Irene"
   }, {
     "apellidos" : "Martínez Cano",
+    "ciudad" : "Cartagena",
     "edad" : 36,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Víctor"
   }, {
     "apellidos" : "Molina Sáez",
+    "ciudad" : "Cartagena",
     "edad" : 23,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Alba"
   }, {
     "apellidos" : "Navarro Ruiz",
+    "ciudad" : "Cartagena",
     "edad" : 27,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Daniel"
   }, {
     "apellidos" : "Pérez Duarte",
+    "ciudad" : "Cartagena",
     "edad" : 41,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Luis"
   }, {
     "apellidos" : "Ramírez Torres",
+    "ciudad" : "Cartagena",
     "edad" : 24,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Marta"
   }, {
     "apellidos" : "Romero Gil",
+    "ciudad" : "Cartagena",
     "edad" : 22,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Hugo"
   }, {
     "apellidos" : "Sánchez Vera",
+    "ciudad" : "Cartagena",
     "edad" : 25,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Claudia"
   }, {
     "apellidos" : "Vega Castillo",
+    "ciudad" : "Cartagena",
     "edad" : 20,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Nuria"
@@ -124,136 +148,163 @@
 }, {
   "ListaAlumnos" : [ {
     "apellidos" : "Aguilar Torres",
+    "ciudad" : "Cartagena",
     "edad" : 26,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Marcos"
   }, {
     "apellidos" : "Alarcón Pérez",
+    "ciudad" : "Cartagena",
     "edad" : 23,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Beatriz"
   }, {
     "apellidos" : "Alonso García",
+    "ciudad" : "Cartagena",
     "edad" : 28,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Sergio"
   }, {
     "apellidos" : "Aranda Ruiz",
+    "ciudad" : "Cartagena",
     "edad" : 24,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Lucía"
   }, {
     "apellidos" : "Barrera Ibáñez",
+    "ciudad" : "Cartagena",
     "edad" : 21,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Carmen"
   }, {
     "apellidos" : "Caballero Ortega",
+    "ciudad" : "Cartagena",
     "edad" : 29,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Andrés"
   }, {
     "apellidos" : "Calvo Martínez",
+    "ciudad" : "Cartagena",
     "edad" : 22,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Paula"
   }, {
     "apellidos" : "Cano Sáez",
+    "ciudad" : "Cartagena",
     "edad" : 25,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Adriana"
   }, {
     "apellidos" : "Castillo Fernández",
+    "ciudad" : "Cartagena",
     "edad" : 20,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Hugo"
   }, {
     "apellidos" : "Díaz Navarro",
+    "ciudad" : "Cartagena",
     "edad" : 31,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Marta"
   }, {
     "apellidos" : "Escudero León",
+    "ciudad" : "Cartagena",
     "edad" : 19,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Patricia"
   }, {
     "apellidos" : "Fernández Bravo",
+    "ciudad" : "Cartagena",
     "edad" : 24,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Irene"
   }, {
     "apellidos" : "García Serrano",
+    "ciudad" : "Cartagena",
     "edad" : 30,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Alejandro"
   }, {
     "apellidos" : "Gil Torres",
+    "ciudad" : "Cartagena",
     "edad" : 32,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Laura"
   }, {
     "apellidos" : "Gómez Vidal",
+    "ciudad" : "Cartagena",
     "edad" : 27,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "David"
   }, {
     "apellidos" : "González Duarte",
+    "ciudad" : "Cartagena",
     "edad" : 23,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Elena"
   }, {
     "apellidos" : "Ibáñez Romero",
+    "ciudad" : "Cartagena",
     "edad" : 25,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Claudia"
   }, {
     "apellidos" : "Martínez Ríos",
+    "ciudad" : "Cartagena",
     "edad" : 20,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Nuria"
   }, {
     "apellidos" : "Molina Vega",
+    "ciudad" : "Cartagena",
     "edad" : 28,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Alberto"
   }, {
     "apellidos" : "Ortega Cruz",
+    "ciudad" : "Cartagena",
     "edad" : 26,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Daniel"
   }, {
     "apellidos" : "Ramírez Sánchez",
+    "ciudad" : "Cartagena",
     "edad" : 37,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Iván"
   }, {
     "apellidos" : "Romero García",
+    "ciudad" : "Cartagena",
     "edad" : 24,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Lucía"
   }, {
     "apellidos" : "Sánchez Molina",
+    "ciudad" : "Cartagena",
     "edad" : 41,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Pablo"
   }, {
     "apellidos" : "Torres Gil",
+    "ciudad" : "Cartagena",
     "edad" : 21,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Ana"
   }, {
     "apellidos" : "Valera León",
+    "ciudad" : "Cartagena",
     "edad" : 30,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Víctor"
   }, {
     "apellidos" : "Vidal Herrera",
+    "ciudad" : "Cartagena",
     "edad" : 38,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "José"
   }, {
     "apellidos" : "Zapata Gómez",
+    "ciudad" : "Cartagena",
     "edad" : 28,
     "fechaRegistro" : "07-11-2025",
     "nombre" : "Elena"

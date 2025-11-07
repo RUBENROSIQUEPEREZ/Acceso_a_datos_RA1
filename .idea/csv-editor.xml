@@ -10,7 +10,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\src\main\java\definitivo\lista_alumnado_DAW1.csv">
+        <entry key="\src\main\java\es\cifpcarlos3\lista_alumnado_DAW1.csv">
           <value>
             <Attribute>
               <option name="separator" value=";" />
