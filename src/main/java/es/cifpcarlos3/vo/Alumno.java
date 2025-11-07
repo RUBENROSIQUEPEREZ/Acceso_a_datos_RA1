@@ -29,8 +29,6 @@ public class Alumno implements Serializable{
     @JsonProperty("edad")
     private Integer edad;
 
-    @JsonProperty("ciudad")
-    private String ciudad;
 
     @JsonProperty("fechaRegistro")
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "dd-MM-yyyy")

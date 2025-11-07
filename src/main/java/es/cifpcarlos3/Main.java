@@ -5,7 +5,6 @@ import es.cifpcarlos3.vo.Curso;
 import tools.jackson.databind.SerializationFeature;
 import tools.jackson.databind.json.JsonMapper;
 import tools.jackson.dataformat.xml.XmlMapper;
-
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -49,7 +48,6 @@ public class Main {
 
         xmlguardar(rutaXML, cursos);
         leerXML(rutaXML);
-
     }
 
     //Creo un metodo donde se le pasa la de donde esta el fichero, mas el separador, ya que estos archivos tienen separadores diferentes
@@ -84,7 +82,7 @@ public class Main {
                     }
 
                     //Creo el objeto alumno y le añado sus nuevas variables
-                    Alumno alumno = new Alumno(nombres, apellidos, edad, ciudad, LocalDate.now());
+                    Alumno alumno = new Alumno(nombres, apellidos, edad, LocalDate.now());
 
                     //Alumno los añano a la lista llamada alumnos
                     alumnos.add(alumno);
@@ -130,7 +128,7 @@ public class Main {
             for (Curso c : lista){
                 System.out.println("Curso: " + c.getNombre() + " Alumnos : " +c.getListaAlumnos().size());
                 for (Alumno a : c.getListaAlumnos()){
-                    System.out.println( "Nombre completo:" + a.getNombre() + " " + a.getApellidos() + " Edad:" + a.getEdad() + " Ciudad " + a.getCiudad());
+                    System.out.println( "Nombre completo:" + a.getNombre() + " " + a.getApellidos() + " Edad:" + a.getEdad());
                 }
             }
 
@@ -178,7 +176,7 @@ public class Main {
                 System.out.println("Curso: " + c.getNombre() +" Alumnos: " + c.getListaAlumnos().size());
 
                 for (Alumno a : c.getListaAlumnos()){
-                    System.out.println( "Nombre completo:" + a.getNombre() + " " + a.getApellidos() + " Edad:" + a.getEdad() + " Ciudad " + a.getCiudad());
+                    System.out.println( "Nombre completo:" + a.getNombre() + " " + a.getApellidos() + " Edad:" + a.getEdad() );
                 }
             }
 
@@ -222,7 +220,7 @@ public class Main {
                 System.out.println("Curso: " + c.getNombre() +" Alumnos: " + c.getListaAlumnos().size());
 
                 for (Alumno a : c.getListaAlumnos()){
-                    System.out.println( "Nombre completo:" + a.getNombre() + " " + a.getApellidos() + " Edad:" + a.getEdad() + " Ciudad " + a.getCiudad());
+                    System.out.println( "Nombre completo:" + a.getNombre() + " " + a.getApellidos() + " Edad:" + a.getEdad());
                 }
             }
 
@@ -230,7 +228,4 @@ public class Main {
             throw new RuntimeException(e);
         }
     }
-
 }
-
-
