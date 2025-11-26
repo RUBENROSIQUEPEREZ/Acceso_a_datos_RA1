@@ -200,7 +200,8 @@ public class Main {
                     .enable(SerializationFeature.INDENT_OUTPUT)
                     .build();
 
-            mapper.writer().withRootName("cursos")
+            mapper
+                    .writer().withRootName("cursos")
                     .writeValue(writer, listaCursos);
 
             System.out.println("Archivo  guardado en XML " + ruta);
