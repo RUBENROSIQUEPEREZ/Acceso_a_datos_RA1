@@ -1,0 +1,313 @@
+[ {
+  "alumnos" : [ {
+    "apellido" : "Abellán García",
+    "ciudad" : "Cartagena",
+    "edad" : 29,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Manuel"
+  }, {
+    "apellido" : "Alonso Pérez",
+    "ciudad" : "Cartagena",
+    "edad" : 23,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Lucía"
+  }, {
+    "apellido" : "Aranda Molina",
+    "ciudad" : "Cartagena",
+    "edad" : 32,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Javier"
+  }, {
+    "apellido" : "Ballester Ruiz",
+    "ciudad" : "Cartagena",
+    "edad" : 21,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Carmen"
+  }, {
+    "apellido" : "Barrera López",
+    "ciudad" : "Cartagena",
+    "edad" : 27,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "David"
+  }, {
+    "apellido" : "Caballero Torres",
+    "ciudad" : "Cartagena",
+    "edad" : 30,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Ana"
+  }, {
+    "apellido" : "Cano Fernández",
+    "ciudad" : "Cartagena",
+    "edad" : 22,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Laura"
+  }, {
+    "apellido" : "Castillo Serrano",
+    "ciudad" : "Cartagena",
+    "edad" : 28,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Sergio"
+  }, {
+    "apellido" : "Díaz Romero",
+    "ciudad" : "Cartagena",
+    "edad" : 24,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Elena"
+  }, {
+    "apellido" : "Esteban Ortega",
+    "ciudad" : "Cartagena",
+    "edad" : 26,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Beatriz"
+  }, {
+    "apellido" : "García León",
+    "ciudad" : "Cartagena",
+    "edad" : 20,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Paula"
+  }, {
+    "apellido" : "Gil Navarro",
+    "ciudad" : "Cartagena",
+    "edad" : 35,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Andrés"
+  }, {
+    "apellido" : "Gómez Ríos",
+    "ciudad" : "Cartagena",
+    "edad" : 19,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Patricia"
+  }, {
+    "apellido" : "González Vidal",
+    "ciudad" : "Cartagena",
+    "edad" : 40,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Alberto"
+  }, {
+    "apellido" : "Ibáñez Moreno",
+    "ciudad" : "Cartagena",
+    "edad" : 38,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Carlos"
+  }, {
+    "apellido" : "Lozano Pérez",
+    "ciudad" : "Cartagena",
+    "edad" : 21,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Irene"
+  }, {
+    "apellido" : "Martínez Cano",
+    "ciudad" : "Cartagena",
+    "edad" : 36,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Víctor"
+  }, {
+    "apellido" : "Molina Sáez",
+    "ciudad" : "Cartagena",
+    "edad" : 23,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Alba"
+  }, {
+    "apellido" : "Navarro Ruiz",
+    "ciudad" : "Cartagena",
+    "edad" : 27,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Daniel"
+  }, {
+    "apellido" : "Pérez Duarte",
+    "ciudad" : "Cartagena",
+    "edad" : 41,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Luis"
+  }, {
+    "apellido" : "Ramírez Torres",
+    "ciudad" : "Cartagena",
+    "edad" : 24,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Marta"
+  }, {
+    "apellido" : "Romero Gil",
+    "ciudad" : "Cartagena",
+    "edad" : 22,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Hugo"
+  }, {
+    "apellido" : "Sánchez Vera",
+    "ciudad" : "Cartagena",
+    "edad" : 25,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Claudia"
+  }, {
+    "apellido" : "Vega Castillo",
+    "ciudad" : "Cartagena",
+    "edad" : 20,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Nuria"
+  } ],
+  "nombre" : "DAM1"
+}, {
+  "alumnos" : [ {
+    "apellido" : "Marcos",
+    "ciudad" : "Cartagena",
+    "edad" : 26,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Aguilar Torres"
+  }, {
+    "apellido" : "Beatriz",
+    "ciudad" : "Cartagena",
+    "edad" : 23,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Alarcón Pérez"
+  }, {
+    "apellido" : "Sergio",
+    "ciudad" : "Cartagena",
+    "edad" : 28,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Alonso García"
+  }, {
+    "apellido" : "Lucía",
+    "ciudad" : "Cartagena",
+    "edad" : 24,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Aranda Ruiz"
+  }, {
+    "apellido" : "Carmen",
+    "ciudad" : "Cartagena",
+    "edad" : 21,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Barrera Ibáñez"
+  }, {
+    "apellido" : "Andrés",
+    "ciudad" : "Cartagena",
+    "edad" : 29,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Caballero Ortega"
+  }, {
+    "apellido" : "Paula",
+    "ciudad" : "Cartagena",
+    "edad" : 22,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Calvo Martínez"
+  }, {
+    "apellido" : "Adriana",
+    "ciudad" : "Cartagena",
+    "edad" : 25,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Cano Sáez"
+  }, {
+    "apellido" : "Hugo",
+    "ciudad" : "Cartagena",
+    "edad" : 20,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Castillo Fernández"
+  }, {
+    "apellido" : "Marta",
+    "ciudad" : "Cartagena",
+    "edad" : 31,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Díaz Navarro"
+  }, {
+    "apellido" : "Patricia",
+    "ciudad" : "Cartagena",
+    "edad" : 19,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Escudero León"
+  }, {
+    "apellido" : "Irene",
+    "ciudad" : "Cartagena",
+    "edad" : 24,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Fernández Bravo"
+  }, {
+    "apellido" : "Alejandro",
+    "ciudad" : "Cartagena",
+    "edad" : 30,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "García Serrano"
+  }, {
+    "apellido" : "Laura",
+    "ciudad" : "Cartagena",
+    "edad" : 32,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Gil Torres"
+  }, {
+    "apellido" : "David",
+    "ciudad" : "Cartagena",
+    "edad" : 27,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Gómez Vidal"
+  }, {
+    "apellido" : "Elena",
+    "ciudad" : "Cartagena",
+    "edad" : 23,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "González Duarte"
+  }, {
+    "apellido" : "Claudia",
+    "ciudad" : "Cartagena",
+    "edad" : 25,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Ibáñez Romero"
+  }, {
+    "apellido" : "Nuria",
+    "ciudad" : "Cartagena",
+    "edad" : 20,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Martínez Ríos"
+  }, {
+    "apellido" : "Alberto",
+    "ciudad" : "Cartagena",
+    "edad" : 28,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Molina Vega"
+  }, {
+    "apellido" : "Daniel",
+    "ciudad" : "Cartagena",
+    "edad" : 26,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Ortega Cruz"
+  }, {
+    "apellido" : "Iván",
+    "ciudad" : "Cartagena",
+    "edad" : 37,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Ramírez Sánchez"
+  }, {
+    "apellido" : "Lucía",
+    "ciudad" : "Cartagena",
+    "edad" : 24,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Romero García"
+  }, {
+    "apellido" : "Pablo",
+    "ciudad" : "Cartagena",
+    "edad" : 41,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Sánchez Molina"
+  }, {
+    "apellido" : "Ana",
+    "ciudad" : "Cartagena",
+    "edad" : 21,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Torres Gil"
+  }, {
+    "apellido" : "Víctor",
+    "ciudad" : "Cartagena",
+    "edad" : 30,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Valera León"
+  }, {
+    "apellido" : "José",
+    "ciudad" : "Cartagena",
+    "edad" : 38,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Vidal Herrera"
+  }, {
+    "apellido" : "Elena",
+    "ciudad" : "Cartagena",
+    "edad" : 28,
+    "fechaDeRegistro" : "2025-11-26",
+    "nombre" : "Zapata Gómez"
+  } ],
+  "nombre" : "DAM2"
+} ]

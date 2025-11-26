@@ -51,7 +51,8 @@ public class Main {
         leerBinario(rutaBinario);
         escribirJSON(rutaJSON, cursos);
         leerJSON(rutaJSON);
-        escribirXML(rutaXML, cursos);
+        //escribirXML(rutaXML, cursos);
+        leerXML(rutaXML);
 
 
     }
@@ -169,6 +170,26 @@ public class Main {
 
         } catch (Exception e) {
             System.err.println("Error al escribir en XML:");
+        }
+     }
+
+     static void leerXML(Path ruta) {
+        try(var reader = Files.newBufferedReader(ruta, StandardCharsets.UTF_8)){
+            var mapper = XmlMapper.builder().build();
+
+            Curso [] cursos = mapper.readValue(reader, Curso[].class);
+
+            System.out.println("===XML LEIDO===");
+
+            for (Curso c : cursos) {
+                System.out.println("Curso: " + c.getNombre() + " Alumnos: " + c.getAlumnos().size());
+                for (Alumno alumno : c.getAlumnos()) {
+                    System.out.println("Nombre: " + alumno.getNombre() + " " + alumno.getApellido() + ". Años: " + alumno.getEdad() + " | " + alumno.getCiudad());
+                }
+            }
+
+        }catch(Exception e){
+            System.out.println("Error al leer en XML:");
         }
      }
 
