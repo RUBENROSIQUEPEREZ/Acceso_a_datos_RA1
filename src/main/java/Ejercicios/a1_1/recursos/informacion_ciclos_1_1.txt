@@ -1,0 +1,13 @@
+#Familia profesional
+'IFC', 'Informática y Comunicaciones'
+
+#Ciclo 
+'IFC01', 'Título Profesional Básico en Informática de Oficina', 2000, 'IFC'
+'IFC02', 'Título Profesional Básico en Informática y Comunicaciones', 2000, 'IFC'
+'IFC03', 'Técnico en Sistemas Microinformáticos y Redes', 2000, 'IFC'
+'IFC04', 'Técnico Superior en Administración de Sistemas Informáticos en Red', 2000, 'IFC'
+'IFC05', 'Desarrollo de Aplicaciones Multiplataforma', 2000, 'IFC'
+'IFC06', 'Desarrollo de Aplicaciones Web', 2000, 'IFC'
+'IFC07', 'Curso de Especialización en Inteligencia Artificial y Big Data (Acceso GS)', 400, 'IFC'
+'IFC08', 'Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información (Acceso GS)', 400, 'IFC'
+'IFC09', 'Curso de Especialización en Desarrollo de videojuegos y realidad virtual (Acceso GS)', 400, 'IFC'
