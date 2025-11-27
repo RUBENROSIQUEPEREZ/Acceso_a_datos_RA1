@@ -1,0 +1,420 @@
+<List12>
+  <item>
+    <alumnos>
+      <alumnos>
+        <apellido>Abellán García</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>29</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>1</id>
+        <nombre>Manuel</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Alonso Pérez</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>23</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>2</id>
+        <nombre>Lucía</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Aranda Molina</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>32</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>3</id>
+        <nombre>Javier</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Ballester Ruiz</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>21</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>4</id>
+        <nombre>Carmen</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Barrera López</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>27</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>5</id>
+        <nombre>David</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Caballero Torres</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>30</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>6</id>
+        <nombre>Ana</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Cano Fernández</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>22</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>8</id>
+        <nombre>Laura</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Castillo Serrano</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>28</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>9</id>
+        <nombre>Sergio</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Díaz Romero</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>24</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>10</id>
+        <nombre>Elena</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Esteban Ortega</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>26</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>12</id>
+        <nombre>Beatriz</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>García León</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>20</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>14</id>
+        <nombre>Paula</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Gil Navarro</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>35</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>15</id>
+        <nombre>Andrés</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Gómez Ríos</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>19</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>16</id>
+        <nombre>Patricia</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>González Vidal</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>40</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>17</id>
+        <nombre>Alberto</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Ibáñez Moreno</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>38</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>19</id>
+        <nombre>Carlos</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Lozano Pérez</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>21</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>20</id>
+        <nombre>Irene</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Martínez Cano</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>36</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>21</id>
+        <nombre>Víctor</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Molina Sáez</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>23</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>22</id>
+        <nombre>Alba</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Navarro Ruiz</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>27</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>23</id>
+        <nombre>Daniel</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Pérez Duarte</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>41</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>25</id>
+        <nombre>Luis</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Ramírez Torres</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>24</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>26</id>
+        <nombre>Marta</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Romero Gil</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>22</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>27</id>
+        <nombre>Hugo</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Sánchez Vera</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>25</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>28</id>
+        <nombre>Claudia</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Vega Castillo</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>20</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>30</id>
+        <nombre>Nuria</nombre>
+      </alumnos>
+    </alumnos>
+    <nombre>DAM</nombre>
+  </item>
+  <item>
+    <alumnos>
+      <alumnos>
+        <apellido>Aguilar Torres</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>26</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>﻿1</id>
+        <nombre>Marcos</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Alarcón Pérez</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>23</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>2</id>
+        <nombre>Beatriz</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Alonso García</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>28</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>3</id>
+        <nombre>Sergio</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Aranda Ruiz</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>24</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>4</id>
+        <nombre>Lucía</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Barrera Ibáñez</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>21</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>6</id>
+        <nombre>Carmen</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Caballero Ortega</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>29</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>7</id>
+        <nombre>Andrés</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Calvo Martínez</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>22</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>8</id>
+        <nombre>Paula</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Cano Sáez</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>25</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>9</id>
+        <nombre>Adriana</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Castillo Fernández</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>20</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>10</id>
+        <nombre>Hugo</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Díaz Navarro</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>31</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>11</id>
+        <nombre>Marta</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Escudero León</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>19</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>12</id>
+        <nombre>Patricia</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Fernández Bravo</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>24</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>14</id>
+        <nombre>Irene</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>García Serrano</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>30</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>15</id>
+        <nombre>Alejandro</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Gil Torres</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>32</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>16</id>
+        <nombre>Laura</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Gómez Vidal</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>27</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>17</id>
+        <nombre>David</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>González Duarte</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>23</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>18</id>
+        <nombre>Elena</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Ibáñez Romero</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>25</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>20</id>
+        <nombre>Claudia</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Martínez Ríos</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>20</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>22</id>
+        <nombre>Nuria</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Molina Vega</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>28</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>23</id>
+        <nombre>Alberto</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Ortega Cruz</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>26</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>25</id>
+        <nombre>Daniel</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Ramírez Sánchez</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>37</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>27</id>
+        <nombre>Iván</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Romero García</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>24</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>28</id>
+        <nombre>Lucía</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Sánchez Molina</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>41</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>29</id>
+        <nombre>Pablo</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Torres Gil</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>21</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>30</id>
+        <nombre>Ana</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Valera León</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>30</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>31</id>
+        <nombre>Víctor</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Vidal Herrera</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>38</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>33</id>
+        <nombre>José</nombre>
+      </alumnos>
+      <alumnos>
+        <apellido>Zapata Gómez</apellido>
+        <ciudad>Cartagena</ciudad>
+        <edad>28</edad>
+        <fechaRegistro>2025-11-27</fechaRegistro>
+        <id>36</id>
+        <nombre>Elena</nombre>
+      </alumnos>
+    </alumnos>
+    <nombre>DAW</nombre>
+  </item>
+</List12>
