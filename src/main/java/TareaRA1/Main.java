@@ -1,7 +1,7 @@
-package es.cifpcarlos3;
+package TareaRA1;
 
-import es.cifpcarlos3.vo.Alumno;
-import es.cifpcarlos3.vo.Curso;
+import TareaRA1.vo.Alumno;
+import TareaRA1.vo.Curso;
 import tools.jackson.databind.SerializationFeature;
 import tools.jackson.databind.json.JsonMapper;
 import tools.jackson.dataformat.xml.XmlMapper;

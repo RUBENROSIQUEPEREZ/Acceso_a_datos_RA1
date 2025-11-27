@@ -1,4 +1,4 @@
-package es.cifpcarlos3.vo;
+package TareaRA1.vo;
 
 import com.ctc.wstx.shaded.msv_core.datatype.xsd.DateTimeType;
 import com.fasterxml.jackson.annotation.JsonFormat;
