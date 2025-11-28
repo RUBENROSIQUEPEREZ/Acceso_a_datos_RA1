@@ -1,364 +1,364 @@
 [ {
   "alumnos" : [ {
-    "apellido" : "Abellán García",
+    "Apellidos" : "Abellán García",
+    "Nombre" : "Manuel",
     "ciudad" : "Cartagena",
     "edad" : 29,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "1",
-    "nombre" : "Manuel"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "1"
   }, {
-    "apellido" : "Alonso Pérez",
+    "Apellidos" : "Alonso Pérez",
+    "Nombre" : "Lucía",
     "ciudad" : "Cartagena",
     "edad" : 23,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "2",
-    "nombre" : "Lucía"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "2"
   }, {
-    "apellido" : "Aranda Molina",
+    "Apellidos" : "Aranda Molina",
+    "Nombre" : "Javier",
     "ciudad" : "Cartagena",
     "edad" : 32,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "3",
-    "nombre" : "Javier"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "3"
   }, {
-    "apellido" : "Ballester Ruiz",
+    "Apellidos" : "Ballester Ruiz",
+    "Nombre" : "Carmen",
     "ciudad" : "Cartagena",
     "edad" : 21,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "4",
-    "nombre" : "Carmen"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "4"
   }, {
-    "apellido" : "Barrera López",
+    "Apellidos" : "Barrera López",
+    "Nombre" : "David",
     "ciudad" : "Cartagena",
     "edad" : 27,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "5",
-    "nombre" : "David"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "5"
   }, {
-    "apellido" : "Caballero Torres",
+    "Apellidos" : "Caballero Torres",
+    "Nombre" : "Ana",
     "ciudad" : "Cartagena",
     "edad" : 30,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "6",
-    "nombre" : "Ana"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "6"
   }, {
-    "apellido" : "Cano Fernández",
+    "Apellidos" : "Cano Fernández",
+    "Nombre" : "Laura",
     "ciudad" : "Cartagena",
     "edad" : 22,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "8",
-    "nombre" : "Laura"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "8"
   }, {
-    "apellido" : "Castillo Serrano",
+    "Apellidos" : "Castillo Serrano",
+    "Nombre" : "Sergio",
     "ciudad" : "Cartagena",
     "edad" : 28,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "9",
-    "nombre" : "Sergio"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "9"
   }, {
-    "apellido" : "Díaz Romero",
+    "Apellidos" : "Díaz Romero",
+    "Nombre" : "Elena",
     "ciudad" : "Cartagena",
     "edad" : 24,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "10",
-    "nombre" : "Elena"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "10"
   }, {
-    "apellido" : "Esteban Ortega",
+    "Apellidos" : "Esteban Ortega",
+    "Nombre" : "Beatriz",
     "ciudad" : "Cartagena",
     "edad" : 26,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "12",
-    "nombre" : "Beatriz"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "12"
   }, {
-    "apellido" : "García León",
+    "Apellidos" : "García León",
+    "Nombre" : "Paula",
     "ciudad" : "Cartagena",
     "edad" : 20,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "14",
-    "nombre" : "Paula"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "14"
   }, {
-    "apellido" : "Gil Navarro",
+    "Apellidos" : "Gil Navarro",
+    "Nombre" : "Andrés",
     "ciudad" : "Cartagena",
     "edad" : 35,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "15",
-    "nombre" : "Andrés"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "15"
   }, {
-    "apellido" : "Gómez Ríos",
+    "Apellidos" : "Gómez Ríos",
+    "Nombre" : "Patricia",
     "ciudad" : "Cartagena",
     "edad" : 19,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "16",
-    "nombre" : "Patricia"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "16"
   }, {
-    "apellido" : "González Vidal",
+    "Apellidos" : "González Vidal",
+    "Nombre" : "Alberto",
     "ciudad" : "Cartagena",
     "edad" : 40,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "17",
-    "nombre" : "Alberto"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "17"
   }, {
-    "apellido" : "Ibáñez Moreno",
+    "Apellidos" : "Ibáñez Moreno",
+    "Nombre" : "Carlos",
     "ciudad" : "Cartagena",
     "edad" : 38,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "19",
-    "nombre" : "Carlos"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "19"
   }, {
-    "apellido" : "Lozano Pérez",
+    "Apellidos" : "Lozano Pérez",
+    "Nombre" : "Irene",
     "ciudad" : "Cartagena",
     "edad" : 21,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "20",
-    "nombre" : "Irene"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "20"
   }, {
-    "apellido" : "Martínez Cano",
+    "Apellidos" : "Martínez Cano",
+    "Nombre" : "Víctor",
     "ciudad" : "Cartagena",
     "edad" : 36,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "21",
-    "nombre" : "Víctor"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "21"
   }, {
-    "apellido" : "Molina Sáez",
+    "Apellidos" : "Molina Sáez",
+    "Nombre" : "Alba",
     "ciudad" : "Cartagena",
     "edad" : 23,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "22",
-    "nombre" : "Alba"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "22"
   }, {
-    "apellido" : "Navarro Ruiz",
+    "Apellidos" : "Navarro Ruiz",
+    "Nombre" : "Daniel",
     "ciudad" : "Cartagena",
     "edad" : 27,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "23",
-    "nombre" : "Daniel"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "23"
   }, {
-    "apellido" : "Pérez Duarte",
+    "Apellidos" : "Pérez Duarte",
+    "Nombre" : "Luis",
     "ciudad" : "Cartagena",
     "edad" : 41,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "25",
-    "nombre" : "Luis"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "25"
   }, {
-    "apellido" : "Ramírez Torres",
+    "Apellidos" : "Ramírez Torres",
+    "Nombre" : "Marta",
     "ciudad" : "Cartagena",
     "edad" : 24,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "26",
-    "nombre" : "Marta"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "26"
   }, {
-    "apellido" : "Romero Gil",
+    "Apellidos" : "Romero Gil",
+    "Nombre" : "Hugo",
     "ciudad" : "Cartagena",
     "edad" : 22,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "27",
-    "nombre" : "Hugo"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "27"
   }, {
-    "apellido" : "Sánchez Vera",
+    "Apellidos" : "Sánchez Vera",
+    "Nombre" : "Claudia",
     "ciudad" : "Cartagena",
     "edad" : 25,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "28",
-    "nombre" : "Claudia"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "28"
   }, {
-    "apellido" : "Vega Castillo",
+    "Apellidos" : "Vega Castillo",
+    "Nombre" : "Nuria",
     "ciudad" : "Cartagena",
     "edad" : 20,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "30",
-    "nombre" : "Nuria"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "30"
   } ],
   "nombre" : "DAM"
 }, {
   "alumnos" : [ {
-    "apellido" : "Aguilar Torres",
+    "Apellidos" : "Aguilar Torres",
+    "Nombre" : "Marcos",
     "ciudad" : "Cartagena",
     "edad" : 26,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "﻿1",
-    "nombre" : "Marcos"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "﻿1"
   }, {
-    "apellido" : "Alarcón Pérez",
+    "Apellidos" : "Alarcón Pérez",
+    "Nombre" : "Beatriz",
     "ciudad" : "Cartagena",
     "edad" : 23,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "2",
-    "nombre" : "Beatriz"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "2"
   }, {
-    "apellido" : "Alonso García",
+    "Apellidos" : "Alonso García",
+    "Nombre" : "Sergio",
     "ciudad" : "Cartagena",
     "edad" : 28,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "3",
-    "nombre" : "Sergio"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "3"
   }, {
-    "apellido" : "Aranda Ruiz",
+    "Apellidos" : "Aranda Ruiz",
+    "Nombre" : "Lucía",
     "ciudad" : "Cartagena",
     "edad" : 24,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "4",
-    "nombre" : "Lucía"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "4"
   }, {
-    "apellido" : "Barrera Ibáñez",
+    "Apellidos" : "Barrera Ibáñez",
+    "Nombre" : "Carmen",
     "ciudad" : "Cartagena",
     "edad" : 21,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "6",
-    "nombre" : "Carmen"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "6"
   }, {
-    "apellido" : "Caballero Ortega",
+    "Apellidos" : "Caballero Ortega",
+    "Nombre" : "Andrés",
     "ciudad" : "Cartagena",
     "edad" : 29,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "7",
-    "nombre" : "Andrés"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "7"
   }, {
-    "apellido" : "Calvo Martínez",
+    "Apellidos" : "Calvo Martínez",
+    "Nombre" : "Paula",
     "ciudad" : "Cartagena",
     "edad" : 22,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "8",
-    "nombre" : "Paula"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "8"
   }, {
-    "apellido" : "Cano Sáez",
+    "Apellidos" : "Cano Sáez",
+    "Nombre" : "Adriana",
     "ciudad" : "Cartagena",
     "edad" : 25,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "9",
-    "nombre" : "Adriana"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "9"
   }, {
-    "apellido" : "Castillo Fernández",
+    "Apellidos" : "Castillo Fernández",
+    "Nombre" : "Hugo",
     "ciudad" : "Cartagena",
     "edad" : 20,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "10",
-    "nombre" : "Hugo"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "10"
   }, {
-    "apellido" : "Díaz Navarro",
+    "Apellidos" : "Díaz Navarro",
+    "Nombre" : "Marta",
     "ciudad" : "Cartagena",
     "edad" : 31,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "11",
-    "nombre" : "Marta"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "11"
   }, {
-    "apellido" : "Escudero León",
+    "Apellidos" : "Escudero León",
+    "Nombre" : "Patricia",
     "ciudad" : "Cartagena",
     "edad" : 19,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "12",
-    "nombre" : "Patricia"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "12"
   }, {
-    "apellido" : "Fernández Bravo",
+    "Apellidos" : "Fernández Bravo",
+    "Nombre" : "Irene",
     "ciudad" : "Cartagena",
     "edad" : 24,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "14",
-    "nombre" : "Irene"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "14"
   }, {
-    "apellido" : "García Serrano",
+    "Apellidos" : "García Serrano",
+    "Nombre" : "Alejandro",
     "ciudad" : "Cartagena",
     "edad" : 30,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "15",
-    "nombre" : "Alejandro"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "15"
   }, {
-    "apellido" : "Gil Torres",
+    "Apellidos" : "Gil Torres",
+    "Nombre" : "Laura",
     "ciudad" : "Cartagena",
     "edad" : 32,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "16",
-    "nombre" : "Laura"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "16"
   }, {
-    "apellido" : "Gómez Vidal",
+    "Apellidos" : "Gómez Vidal",
+    "Nombre" : "David",
     "ciudad" : "Cartagena",
     "edad" : 27,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "17",
-    "nombre" : "David"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "17"
   }, {
-    "apellido" : "González Duarte",
+    "Apellidos" : "González Duarte",
+    "Nombre" : "Elena",
     "ciudad" : "Cartagena",
     "edad" : 23,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "18",
-    "nombre" : "Elena"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "18"
   }, {
-    "apellido" : "Ibáñez Romero",
+    "Apellidos" : "Ibáñez Romero",
+    "Nombre" : "Claudia",
     "ciudad" : "Cartagena",
     "edad" : 25,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "20",
-    "nombre" : "Claudia"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "20"
   }, {
-    "apellido" : "Martínez Ríos",
+    "Apellidos" : "Martínez Ríos",
+    "Nombre" : "Nuria",
     "ciudad" : "Cartagena",
     "edad" : 20,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "22",
-    "nombre" : "Nuria"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "22"
   }, {
-    "apellido" : "Molina Vega",
+    "Apellidos" : "Molina Vega",
+    "Nombre" : "Alberto",
     "ciudad" : "Cartagena",
     "edad" : 28,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "23",
-    "nombre" : "Alberto"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "23"
   }, {
-    "apellido" : "Ortega Cruz",
+    "Apellidos" : "Ortega Cruz",
+    "Nombre" : "Daniel",
     "ciudad" : "Cartagena",
     "edad" : 26,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "25",
-    "nombre" : "Daniel"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "25"
   }, {
-    "apellido" : "Ramírez Sánchez",
+    "Apellidos" : "Ramírez Sánchez",
+    "Nombre" : "Iván",
     "ciudad" : "Cartagena",
     "edad" : 37,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "27",
-    "nombre" : "Iván"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "27"
   }, {
-    "apellido" : "Romero García",
+    "Apellidos" : "Romero García",
+    "Nombre" : "Lucía",
     "ciudad" : "Cartagena",
     "edad" : 24,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "28",
-    "nombre" : "Lucía"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "28"
   }, {
-    "apellido" : "Sánchez Molina",
+    "Apellidos" : "Sánchez Molina",
+    "Nombre" : "Pablo",
     "ciudad" : "Cartagena",
     "edad" : 41,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "29",
-    "nombre" : "Pablo"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "29"
   }, {
-    "apellido" : "Torres Gil",
+    "Apellidos" : "Torres Gil",
+    "Nombre" : "Ana",
     "ciudad" : "Cartagena",
     "edad" : 21,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "30",
-    "nombre" : "Ana"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "30"
   }, {
-    "apellido" : "Valera León",
+    "Apellidos" : "Valera León",
+    "Nombre" : "Víctor",
     "ciudad" : "Cartagena",
     "edad" : 30,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "31",
-    "nombre" : "Víctor"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "31"
   }, {
-    "apellido" : "Vidal Herrera",
+    "Apellidos" : "Vidal Herrera",
+    "Nombre" : "José",
     "ciudad" : "Cartagena",
     "edad" : 38,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "33",
-    "nombre" : "José"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "33"
   }, {
-    "apellido" : "Zapata Gómez",
+    "Apellidos" : "Zapata Gómez",
+    "Nombre" : "Elena",
     "ciudad" : "Cartagena",
     "edad" : 28,
-    "fechaRegistro" : "2025-11-27",
-    "id" : "36",
-    "nombre" : "Elena"
+    "fechaRegistro" : "28-11-2025",
+    "id" : "36"
   } ],
   "nombre" : "DAW"
 } ]

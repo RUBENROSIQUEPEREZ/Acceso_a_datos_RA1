@@ -1,420 +1,420 @@
 <List12>
   <item>
-    <alumnos>
-      <alumnos>
-        <apellido>Abellán García</apellido>
+    <Lista_de_alumnos>
+      <Alumno>
+        <Apellidos>Abellán García</Apellidos>
+        <Nombre>Manuel</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>29</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>1</id>
-        <nombre>Manuel</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Alonso Pérez</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Alonso Pérez</Apellidos>
+        <Nombre>Lucía</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>23</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>2</id>
-        <nombre>Lucía</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Aranda Molina</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Aranda Molina</Apellidos>
+        <Nombre>Javier</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>32</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>3</id>
-        <nombre>Javier</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Ballester Ruiz</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Ballester Ruiz</Apellidos>
+        <Nombre>Carmen</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>21</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>4</id>
-        <nombre>Carmen</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Barrera López</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Barrera López</Apellidos>
+        <Nombre>David</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>27</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>5</id>
-        <nombre>David</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Caballero Torres</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Caballero Torres</Apellidos>
+        <Nombre>Ana</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>30</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>6</id>
-        <nombre>Ana</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Cano Fernández</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Cano Fernández</Apellidos>
+        <Nombre>Laura</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>22</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>8</id>
-        <nombre>Laura</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Castillo Serrano</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Castillo Serrano</Apellidos>
+        <Nombre>Sergio</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>28</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>9</id>
-        <nombre>Sergio</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Díaz Romero</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Díaz Romero</Apellidos>
+        <Nombre>Elena</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>24</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>10</id>
-        <nombre>Elena</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Esteban Ortega</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Esteban Ortega</Apellidos>
+        <Nombre>Beatriz</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>26</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>12</id>
-        <nombre>Beatriz</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>García León</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>García León</Apellidos>
+        <Nombre>Paula</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>20</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>14</id>
-        <nombre>Paula</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Gil Navarro</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Gil Navarro</Apellidos>
+        <Nombre>Andrés</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>35</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>15</id>
-        <nombre>Andrés</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Gómez Ríos</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Gómez Ríos</Apellidos>
+        <Nombre>Patricia</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>19</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>16</id>
-        <nombre>Patricia</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>González Vidal</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>González Vidal</Apellidos>
+        <Nombre>Alberto</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>40</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>17</id>
-        <nombre>Alberto</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Ibáñez Moreno</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Ibáñez Moreno</Apellidos>
+        <Nombre>Carlos</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>38</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>19</id>
-        <nombre>Carlos</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Lozano Pérez</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Lozano Pérez</Apellidos>
+        <Nombre>Irene</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>21</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>20</id>
-        <nombre>Irene</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Martínez Cano</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Martínez Cano</Apellidos>
+        <Nombre>Víctor</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>36</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>21</id>
-        <nombre>Víctor</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Molina Sáez</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Molina Sáez</Apellidos>
+        <Nombre>Alba</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>23</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>22</id>
-        <nombre>Alba</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Navarro Ruiz</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Navarro Ruiz</Apellidos>
+        <Nombre>Daniel</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>27</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>23</id>
-        <nombre>Daniel</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Pérez Duarte</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Pérez Duarte</Apellidos>
+        <Nombre>Luis</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>41</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>25</id>
-        <nombre>Luis</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Ramírez Torres</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Ramírez Torres</Apellidos>
+        <Nombre>Marta</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>24</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>26</id>
-        <nombre>Marta</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Romero Gil</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Romero Gil</Apellidos>
+        <Nombre>Hugo</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>22</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>27</id>
-        <nombre>Hugo</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Sánchez Vera</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Sánchez Vera</Apellidos>
+        <Nombre>Claudia</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>25</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>28</id>
-        <nombre>Claudia</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Vega Castillo</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Vega Castillo</Apellidos>
+        <Nombre>Nuria</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>20</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>30</id>
-        <nombre>Nuria</nombre>
-      </alumnos>
-    </alumnos>
+      </Alumno>
+    </Lista_de_alumnos>
     <nombre>DAM</nombre>
   </item>
   <item>
-    <alumnos>
-      <alumnos>
-        <apellido>Aguilar Torres</apellido>
+    <Lista_de_alumnos>
+      <Alumno>
+        <Apellidos>Aguilar Torres</Apellidos>
+        <Nombre>Marcos</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>26</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>﻿1</id>
-        <nombre>Marcos</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Alarcón Pérez</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Alarcón Pérez</Apellidos>
+        <Nombre>Beatriz</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>23</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>2</id>
-        <nombre>Beatriz</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Alonso García</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Alonso García</Apellidos>
+        <Nombre>Sergio</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>28</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>3</id>
-        <nombre>Sergio</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Aranda Ruiz</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Aranda Ruiz</Apellidos>
+        <Nombre>Lucía</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>24</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>4</id>
-        <nombre>Lucía</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Barrera Ibáñez</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Barrera Ibáñez</Apellidos>
+        <Nombre>Carmen</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>21</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>6</id>
-        <nombre>Carmen</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Caballero Ortega</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Caballero Ortega</Apellidos>
+        <Nombre>Andrés</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>29</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>7</id>
-        <nombre>Andrés</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Calvo Martínez</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Calvo Martínez</Apellidos>
+        <Nombre>Paula</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>22</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>8</id>
-        <nombre>Paula</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Cano Sáez</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Cano Sáez</Apellidos>
+        <Nombre>Adriana</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>25</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>9</id>
-        <nombre>Adriana</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Castillo Fernández</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Castillo Fernández</Apellidos>
+        <Nombre>Hugo</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>20</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>10</id>
-        <nombre>Hugo</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Díaz Navarro</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Díaz Navarro</Apellidos>
+        <Nombre>Marta</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>31</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>11</id>
-        <nombre>Marta</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Escudero León</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Escudero León</Apellidos>
+        <Nombre>Patricia</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>19</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>12</id>
-        <nombre>Patricia</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Fernández Bravo</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Fernández Bravo</Apellidos>
+        <Nombre>Irene</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>24</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>14</id>
-        <nombre>Irene</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>García Serrano</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>García Serrano</Apellidos>
+        <Nombre>Alejandro</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>30</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>15</id>
-        <nombre>Alejandro</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Gil Torres</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Gil Torres</Apellidos>
+        <Nombre>Laura</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>32</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>16</id>
-        <nombre>Laura</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Gómez Vidal</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Gómez Vidal</Apellidos>
+        <Nombre>David</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>27</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>17</id>
-        <nombre>David</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>González Duarte</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>González Duarte</Apellidos>
+        <Nombre>Elena</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>23</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>18</id>
-        <nombre>Elena</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Ibáñez Romero</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Ibáñez Romero</Apellidos>
+        <Nombre>Claudia</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>25</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>20</id>
-        <nombre>Claudia</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Martínez Ríos</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Martínez Ríos</Apellidos>
+        <Nombre>Nuria</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>20</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>22</id>
-        <nombre>Nuria</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Molina Vega</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Molina Vega</Apellidos>
+        <Nombre>Alberto</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>28</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>23</id>
-        <nombre>Alberto</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Ortega Cruz</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Ortega Cruz</Apellidos>
+        <Nombre>Daniel</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>26</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>25</id>
-        <nombre>Daniel</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Ramírez Sánchez</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Ramírez Sánchez</Apellidos>
+        <Nombre>Iván</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>37</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>27</id>
-        <nombre>Iván</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Romero García</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Romero García</Apellidos>
+        <Nombre>Lucía</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>24</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>28</id>
-        <nombre>Lucía</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Sánchez Molina</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Sánchez Molina</Apellidos>
+        <Nombre>Pablo</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>41</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>29</id>
-        <nombre>Pablo</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Torres Gil</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Torres Gil</Apellidos>
+        <Nombre>Ana</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>21</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>30</id>
-        <nombre>Ana</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Valera León</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Valera León</Apellidos>
+        <Nombre>Víctor</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>30</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>31</id>
-        <nombre>Víctor</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Vidal Herrera</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Vidal Herrera</Apellidos>
+        <Nombre>José</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>38</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>33</id>
-        <nombre>José</nombre>
-      </alumnos>
-      <alumnos>
-        <apellido>Zapata Gómez</apellido>
+      </Alumno>
+      <Alumno>
+        <Apellidos>Zapata Gómez</Apellidos>
+        <Nombre>Elena</Nombre>
         <ciudad>Cartagena</ciudad>
         <edad>28</edad>
-        <fechaRegistro>2025-11-27</fechaRegistro>
+        <fechaRegistro>28-11-2025</fechaRegistro>
         <id>36</id>
-        <nombre>Elena</nombre>
-      </alumnos>
-    </alumnos>
+      </Alumno>
+    </Lista_de_alumnos>
     <nombre>DAW</nombre>
   </item>
 </List12>
