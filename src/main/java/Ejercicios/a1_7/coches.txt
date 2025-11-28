@@ -1,0 +1,5 @@
+Seat,Ibiza,rojo,2019
+Ford,Focus,gris,2014
+Volkswagen,Golf,azul,2020
+Toyota,Corolla,blanco,2022
+Fiat,blanco,2020

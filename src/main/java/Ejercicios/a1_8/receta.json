@@ -1,0 +1,42 @@
+{
+    "nombre": "Gazpacho base",
+    "tipo": "Sopa fría",
+    "ingredientes": [
+        {
+            "nombre": "Tomate",
+            "cantidad": "1 kg"
+        },
+        {
+            "nombre": "Pimiento verde",
+            "cantidad": "100 g"
+        },
+        {
+            "nombre": "Pepino",
+            "cantidad": "100 g"
+        },
+        {
+            "nombre": "Cebolla",
+            "cantidad": "50 g"
+        },
+        {
+            "nombre": "Ajo",
+            "cantidad": "1 diente"
+        },
+        {
+            "nombre": "Aceite de oliva virgen extra",
+            "cantidad": "100 ml"
+        },
+        {
+            "nombre": "Vinagre",
+            "cantidad": "30 ml"
+        },
+        {
+            "nombre": "Sal",
+            "cantidad": "al gusto"
+        },
+        {
+            "nombre": "Agua fría",
+            "cantidad": "200 ml"
+        }
+    ]
+}

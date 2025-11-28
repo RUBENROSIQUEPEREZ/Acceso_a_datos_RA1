@@ -1,0 +1,31 @@
+[ {
+  "anio" : 2002,
+  "artista" : "Muse",
+  "duracion" : "2:40",
+  "es_Español" : false,
+  "titulo" : "Plug n baby"
+}, {
+  "anio" : 2013,
+  "artista" : "Arctic Monkeys",
+  "duracion" : "3:10",
+  "es_Español" : false,
+  "titulo" : "R u mine"
+}, {
+  "anio" : 2014,
+  "artista" : "Fuzz",
+  "duracion" : "4:30",
+  "es_Español" : false,
+  "titulo" : "Loose Sutures"
+}, {
+  "anio" : 2018,
+  "artista" : "Parquet Courts",
+  "duracion" : "3:00",
+  "es_Español" : false,
+  "titulo" : "Total Football"
+}, {
+  "anio" : 1973,
+  "artista" : "Paco de Lucia",
+  "duracion" : "6:00",
+  "es_Español" : true,
+  "titulo" : "Entre dos aguas"
+} ]

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ListaClientes>
+   <cliente id="55000">
+      <nombre>Grupo Charter</nombre>
+      <sucursal>
+         <calle>Gran Vía 101</calle>
+         <ciudad>Murcia</ciudad>
+         <provincia>Murcia</provincia>
+         <cp>30001</cp>
+      </sucursal>
+      <sucursal>
+         <calle>Avenida Oscar Espla 23</calle>
+         <ciudad>Alicante</ciudad>
+         <provincia>Alicante</provincia>
+         <cp>03007</cp>
+      </sucursal>
+      <sucursal>
+         <calle>Curtidors 17</calle>
+         <ciudad>Elche</ciudad>
+         <cp>03203</cp>
+      </sucursal>
+   </cliente>
+</ListaClientes>

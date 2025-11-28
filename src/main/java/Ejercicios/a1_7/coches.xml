@@ -1,0 +1,26 @@
+<catalogo>
+  <coche>
+    <anio>2019</anio>
+    <color>rojo</color>
+    <marca>Seat</marca>
+    <modelo>Ibiza</modelo>
+  </coche>
+  <coche>
+    <anio>2014</anio>
+    <color>gris</color>
+    <marca>Ford</marca>
+    <modelo>Focus</modelo>
+  </coche>
+  <coche>
+    <anio>2020</anio>
+    <color>azul</color>
+    <marca>Volkswagen</marca>
+    <modelo>Golf</modelo>
+  </coche>
+  <coche>
+    <anio>2022</anio>
+    <color>blanco</color>
+    <marca>Toyota</marca>
+    <modelo>Corolla</modelo>
+  </coche>
+</catalogo>
