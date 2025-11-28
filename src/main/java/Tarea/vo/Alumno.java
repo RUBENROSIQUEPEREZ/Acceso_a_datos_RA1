@@ -19,10 +19,11 @@ public class Alumno implements Serializable {
     String apellido;
     @JsonProperty("Nombre")
     String nombre;
+    @JsonProperty("Ciudad")
     String ciudad;
-    @JsonProperty("edad")
+    @JsonProperty("Edad")
     int edad;
-    @JsonProperty("fechaRegistro")
+    @JsonProperty("Fecha_de_registro")
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "dd-MM-yyyy")
     private LocalDate fechaRegistro;
 }
